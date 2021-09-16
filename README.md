@@ -8,3 +8,7 @@
 NoTzuch/NoTzuch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/AdrianLopes/count.svg" />
+ </p>

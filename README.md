@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Front-end, PHP, JavaScript, Data Analytics and Web Design.
 - 🔔 I’m looking to collaborate on projects that envolve Front-end, Web Design(UX and UI), PHP and JVS. 
 - 📫 How to reach me: twitter:@zuchzao; instagram: @guizuchi
-- 😀 A fact of mine is that I love cooking and playing the sweet flute.
+- 😀 A fact of mine is that I love cooking, playing the sweet flute and reading books. 
 
 <!---
 NoTzuch/NoTzuch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

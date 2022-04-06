@@ -16,6 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <a href="https://github.com/NoTzuch">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoTzuch&show_icons=true&theme=Pop N' Lock&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoTzuch&show_icons=true&theme=Hackpot Under The Sea&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoTzuch&layout=compact&langs_count=7&theme=Pop N' Lock"/>
 </div>

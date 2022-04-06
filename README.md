@@ -13,13 +13,15 @@ You can click the Preview link to take a look at your changes.
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/NoTzuch/count.svg" />
  </p>
+ 
+ 
 
 <div align="center">
   <a href="https://github.com/NoTzuch">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=NoTzuch&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoTzuch&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
- 
+
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,6 +30,8 @@ You can click the Preview link to take a look at your changes.
   <img align="right" alt="Guilherme-pic" height="150" style="border-radius:100px;" src="https://i.pinimg.com/originals/6c/b2/be/6cb2be878252b295f1310ca48a864997.jpg"
        height="50px" width="150px">
 </div><br>
+ 
+  ##
  
  <div align="center"> 
   <a href="https://www.youtube.com/channel/UCtzckMWpxsdiRowWRYiOlng" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

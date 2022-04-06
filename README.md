@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Guilherme Zuchinalli but you can call me Zuzu or Gui and I Am in the first semester of Mathematics in Federal University of Viçosa.
-- 👀 I’m interested in fullstack techs and Data Related Fields WITH Enphase in Data Analytics and Data Admnistration.
-- 🌱 I’m currently learning algorithm, Data Stuff, JavaScript and their frameworks and Node.js, Python and Web Design.
-- 🔔 I’m looking to collaborate on projects that envolve Front-end, Web Design(UX/UI) and JVS. 
+- 👀 I’m interested in fullstack techs and Data Related Fields WITH Enphase in Data Analytics, Data Science and Data Admnistration.
+- 🌱 I’m currently learning algorithm, Data Stuff, JavaScript and their frameworks and Node.js, Python and Introductions in Web Design.
+- 🔔 I’m looking to collaborate on projects that envolve Front-end, Web Design(UX/UI) and Data, but this last one im not confident.
 - 📫 How to reach me: twitter:@zuchzao; instagram: @guizuchi
-- 😀 A fact of mine is that I love cooking, Valorant and books.
+- 😀 A fact of mine is that I love to cook, play Valorant, Counter Strike GO and read books.
 
 <!---
 NoTzuch/NoTzuch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

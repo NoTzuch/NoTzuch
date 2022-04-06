@@ -25,7 +25,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Guilherme-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Guilherme-pic" height="150" style="border-radius:100px;" src="https://i.pinimg.com/originals/6c/b2/be/6cb2be878252b295f1310ca48a864997.jpg">
+  <img align="right" alt="Guilherme-pic" height="150" style="border-radius:100px;" src="https://i.pinimg.com/originals/6c/b2/be/6cb2be878252b295f1310ca48a864997.jpg"
+       height="50px" width="150px">
 </div><br>
  
  <div align="center"> 
